@@ -3,6 +3,7 @@
 Ultimat is an Ethereum ERC20 standard token.  
 
 Token Address: 0x4632091b0DD0E0902d1fe0534e16eb7b20328D70  
+Token Name: Ultimat  
 Token Symbol: ULT  
 Decimals: 18  
 Total Token Supply: 800,000,000  
