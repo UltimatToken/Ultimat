@@ -1,19 +1,12 @@
-# Ultimat
+# Ultimat  
 
-Ultimat is an Ethereum ERC20 standard token.
+Ultimat is an Ethereum ERC20 standard token.  
 
+Token Address: TBA  
+Token Symbol: ULT  
+Decimals: 18  
+Total Token Supply: 800,000,000  
 
-Token Address: TBA
-
-Token Symbol: ULT
-
-Decimals: 18
-
-Total Token Supply: 800,000,000
-
-
-Website: http://www.ultimat.tk/
-
-Contract Source: Etherscan
-
-Contract Source: https://github.com/UltimatToken/Ultimat/blob/master/contracts/UltimatToken.sol
+Website: http://www.ultimat.tk/  
+Contract Source: Etherscan  
+Contract Source: https://github.com/UltimatToken/Ultimat/blob/master/contracts/UltimatToken.sol  
